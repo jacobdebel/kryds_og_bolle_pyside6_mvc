@@ -1,0 +1,4 @@
+Dette er en prototype på et kryds og bolle-spil udviklet i =pyside6=.
+Projektet er forsøgt opbygget efter Model View Controller-arkitekturen.
+
+For at kunne køre programmet skal man have installeret =pyside6= vha =pip=, gerne i et virtuelt miljø.
